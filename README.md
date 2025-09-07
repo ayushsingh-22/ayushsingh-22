@@ -2,9 +2,8 @@
 
 ## 🚀 About Me  
 I'm a passionate **Software Development Engineer** specializing in building **scalable, secure, and user-friendly applications** across **Android, Web, and AI/ML platforms**.  
-
 I excel in **Android development with Jetpack Compose**, **backend integration using Go & Firebase**, and **computer vision & machine learning solutions**.  
-With **30+ mobile apps published** and multiple web platforms deployed, I strive to blend **technology with innovation** to deliver meaningful digital experiences.  
+With **30+ mobile apps developed** and multiple web platforms deployed, I strive to blend **technology with innovation** to deliver meaningful digital experiences.  
 
 📍 Based in: New Delhi, India  
 📧 Email: ayushkumar2205@gmail.com  
@@ -68,7 +67,6 @@ With **30+ mobile apps published** and multiple web platforms deployed, I strive
 
 ## 🏆 Achievements & Recognitions  
 
-- 🏅 **Contributor, Google Summer of Code (2023 & 2024)**  
 - 📱 Developed & published **30+ mobile applications**  
 - 🎖 Finalist at **Smart India Hackathon (SIH)** & **VIHAAN007 (DTU, 1K+ participants)**  
 - 📜 Certifications:  
