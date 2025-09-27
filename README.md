@@ -1,101 +1,235 @@
-# Hi there, I'm Ayush Kumar 👋  
+# Hi there! I'm Ayush Kumar 👨‍💻
 
-## 🚀 About Me  
-I'm a passionate **Software Development Engineer** specializing in building **scalable, secure, and user-friendly applications** across **Android, Web, and AI/ML platforms**.  
-I excel in **Android development with Jetpack Compose**, **backend integration using Go & Firebase**, and **computer vision & machine learning solutions**.  
-With **30+ mobile apps developed** and multiple web platforms deployed, I strive to blend **technology with innovation** to deliver meaningful digital experiences.  
-
-📍 Based in: New Delhi, India  
-📧 Email: ayushkumar2205@gmail.com  
-🔗 LinkedIn: [linkedin.com/in/ayush-kumar-a2880a258](http://www.linkedin.com/in/ayush-kumar-a2880a258)  
-
----
-
-## 🌟 Featured Projects  
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [Mind Haven](https://github.com/ayushsingh-22/MindHavenApp) | Meditation & sleep app with streaks, achievements, secure authentication, and real-time streaming. | Kotlin, Jetpack Compose, Firebase, Appwrite |
-| [QuickNote](https://github.com/ayushsingh-22/QuickNote) | Secure note-taking app with AES encryption, real-time sync, and Material 3 UI. | Kotlin, Jetpack Compose, Firebase |
-| [Flight Eye](https://github.com/ayushsingh-22/FlightEye) | Stream RTSP video and record screen with internal audio. | Kotlin, Jetpack, libVLC |
-| [Rakshak Service](https://github.com/ayushsingh-22/Rakshak-Service) | Security service management platform with bookings, dashboards, and analytics. | React.js, Go, REST API, Recharts |
-| Drowsiness Detection | CNN + OpenCV model to monitor driver alertness. | Python, OpenCV |
-| VCE Abnormality Classification | Hybrid ViT + VGG16 model achieving 80%+ accuracy in medical imaging. | Python, TensorFlow, VGG16, ViT |
-
----
-
-## 🛠️ Tech Stack  
-
-### 💻 Programming Languages  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
-![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-
-### 📱 Mobile & Frontend Development  
-![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white) 
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-%2300C4B3.svg?style=for-the-badge&logo=android&logoColor=white) 
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black) 
-![Material Design](https://img.shields.io/badge/Material%20Design-%230081CB.svg?style=for-the-badge&logo=material-design&logoColor=white)  
-
-### ⚙️ Backend & APIs  
-![Go](https://img.shields.io/badge/Go%20Lang-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
-![REST API](https://img.shields.io/badge/REST%20API-%23007396.svg?style=for-the-badge&logo=api&logoColor=white) 
-![Appwrite](https://img.shields.io/badge/Appwrite-%23F02E65.svg?style=for-the-badge&logo=appwrite&logoColor=white)  
-
-### 🗄 Databases & Cloud  
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black) 
-![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
-
-### 🤖 AI / Machine Learning  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) 
-![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black) 
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%23FF4088.svg?style=for-the-badge&logo=keras&logoColor=white)  
-
-### 🛠 Tools & Platforms  
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) 
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-
----
-
-## 🏆 Achievements & Recognitions  
-
-- 📱 Developed & published **30+ mobile applications**  
-- 🎖 Finalist at **Smart India Hackathon (SIH)** & **VIHAAN007 (DTU, 1K+ participants)**  
-- 📜 Certifications:  
-  - Meta Android Development  
-  - Coursera Data Analytics  
-  - GitHub Fundamentals  
-  - Java (Great Learning)  
-- ♟️ **Chess Regional Level Winner**  
-- 📸 Grew a **Photography page to 1K+ followers** on Instagram  
-
----
-
-## 📊 GitHub Stats  
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Development+Engineer;Android+%26+Web+Developer;AI/ML+Enthusiast;30%2B+Apps+Developer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000" />
+</div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushsingh-22&show_icons=true&theme=tokyonight" alt="Ayush's GitHub stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsingh-22&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushsingh-22&theme=tokyonight" alt="GitHub Streak"/>
+  <a href="mailto:ayushkumar2205@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="http://www.linkedin.com/in/ayush-kumar-a2880a258"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/ayush.singh22/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🌐 Connect With Me  
+## 🚀 About Me
 
-📧 Email: **ayushkumar2205@gmail.com**  
-🔗 [LinkedIn](http://www.linkedin.com/in/ayush-kumar-a2880a258)  
-📸 [Instagram](https://www.instagram.com/ayush.singh22/)  
+I'm a passionate **Software Development Engineer** from **New Delhi, India** 🇮🇳, specializing in creating **scalable, secure, and user-friendly applications** across multiple platforms.
+
+- 🔭 Currently working on **Android apps with Jetpack Compose** and **AI/ML solutions**
+- 🌱 Exploring **Computer Vision** and **Deep Learning** applications
+- 💼 Built and deployed **30+ mobile applications** and multiple web platforms
+- 🎯 Passionate about blending **technology with innovation** to create meaningful digital experiences
+- ⚡ Fun fact: **Regional Chess Champion** and **Photography enthusiast** with 1K+ Instagram followers
 
 ---
+
+## 🛠️ Tech Arsenal
+
+<details>
+<summary><b>🖥️ Languages & Frameworks</b></summary>
+<br/>
+
+**Programming Languages**
+<br/>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Frontend & Mobile**
+<br/>
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🗄️ Backend & Database</b></summary>
+<br/>
+
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white)
+![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=flat-square&logo=appwrite&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-02569B?style=flat-square&logo=rest&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🤖 AI/ML & Data Science</b></summary>
+<br/>
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-777BB4?style=flat-square&logo=numpy&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🛠️ Tools & Platforms</b></summary>
+<br/>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+</details>
+
+---
+
+## 🌟 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧘‍♀️ [Mind Haven](https://github.com/ayushsingh-22/MindHavenApp)
+**Meditation & Sleep App**
+- 🎯 Features: Streaks, achievements, secure authentication
+- 🔊 Real-time audio streaming
+- 🛡️ Secure user management
+- **Tech:** Kotlin, Jetpack Compose, Firebase, Appwrite
+
+</td>
+<td width="50%">
+
+### 📝 [QuickNote](https://github.com/ayushsingh-22/QuickNote)
+**Secure Note-Taking App**
+- 🔐 AES encryption for data security
+- ☁️ Real-time synchronization
+- 🎨 Material 3 UI design
+- **Tech:** Kotlin, Jetpack Compose, Firebase
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ✈️ [Flight Eye](https://github.com/ayushsingh-22/FlightEye)
+**Video Streaming & Recording**
+- 📺 RTSP video streaming
+- 🎥 Screen recording with internal audio
+- 📱 Optimized mobile performance
+- **Tech:** Kotlin, Jetpack, libVLC
+
+</td>
+<td width="50%">
+
+### 🛡️ [Rakshak Service](https://github.com/ayushsingh-22/Rakshak-Service)
+**Security Management Platform**
+- 📊 Dashboard and analytics
+- 📅 Booking management system
+- 📈 Real-time monitoring
+- **Tech:** React.js, Go, REST API, Recharts
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+### 🏥 [VCE Abnormality Classification](https://www.kaggle.com/code/ayush22singh/vision-transformer)
+**Medical Imaging AI Model**
+- 🧠 Hybrid Vision Transformer + VGG16 architecture
+- 📊 **80%+ accuracy** in medical image classification
+- 🔬 Advanced computer vision for healthcare
+- **Tech:** Python, TensorFlow, Vision Transformers, VGG16
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 Achievements & Recognitions
+
+🎖️ **Hackathons & Competitions**
+- 🏅 **Smart India Hackathon (SIH)** - Finalist
+- 🏅 **VIHAAN007 (DTU)** - Finalist (1K+ participants)
+
+📜 **Certifications**
+- ✅ Meta Android Development Professional Certificate
+- ✅ Coursera Data Analytics Professional Certificate  
+- ✅ GitHub Fundamentals Certification
+- ✅ Java Programming (Great Learning)
+
+🎯 **Other Achievements**
+- ♟️ **Chess Regional Champion**
+- 📸 **Photography Content Creator** (1K+ Instagram followers)
+- 📱 **30+ Mobile Applications** developed and deployed
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayushsingh-22&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsingh-22&layout=compact&theme=radical"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushsingh-22&theme=radical" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushsingh-22&theme=tokyo-night" />
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```javascript
+const ayush = {
+    currentFocus: ["Android Development", "AI/ML", "Computer Vision"],
+    learningNext: ["Flutter", "Kotlin Multiplatform", "MLOps"],
+    askMeAbout: ["Android", "Jetpack Compose", "Machine Learning", "Firebase"],
+    technologies: {
+        mobile: ["Android", "Jetpack Compose", "Kotlin"],
+        backend: ["Go", "Firebase", "REST APIs"],
+        aiml: ["TensorFlow", "OpenCV", "Computer Vision"],
+        tools: ["Git", "Android Studio", "VS Code"]
+    },
+    funFact: "I debug code by day and capture moments by night 📸"
+};
+```
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  
+**"Code is like humor. When you have to explain it, it's bad."** – Cory House
+
+[![Ayush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ayushsingh-22&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ayushsingh-22)
+
+</div>
+
+---
+
+## 🤝 Let's Connect & Collaborate!
+
+<div align="center">
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/ayush-kumar-a2880a258)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushkumar2205@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ayush.singh22/)
+</div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+</div>
+
+---
+
+<div align="center">
+  <i>"Building the future, one line of code at a time."</i>
+  <br><br>
+</div>
