@@ -52,52 +52,6 @@ Software Development Engineer from New Delhi, India, specializing in **Android d
 
 ---
 
-## 🌟 Featured Projects
-
-### 🤖 [MintaAI - EmotionSense AI](https://github.com/ayushsingh-22/EmotionSense-AI)
-**AI-Powered Emotion Recognition System**
-- 🎯 Real-time emotion detection and analysis
-- 🧠 Advanced machine learning models for sentiment analysis
-- 📊 Comprehensive emotional intelligence insights
-- **Tech:** Python, TensorFlow, OpenCV, Deep Learning
-
-### 🧘‍♀️ [Mind Haven](https://github.com/ayushsingh-22/MindHavenApp)
-**Meditation & Wellness Application**
-- 🎯 Streak tracking and achievement system
-- 🔊 Real-time audio streaming with secure authentication
-- ☁️ Cloud synchronization across devices
-- **Tech:** Kotlin, Jetpack Compose, Firebase, Appwrite
-
-### 📝 [QuickNote](https://github.com/ayushsingh-22/QuickNote)
-**Encrypted Note-Taking Platform**
-- 🔐 AES encryption for maximum security
-- ☁️ Real-time cloud synchronization
-- 🎨 Modern Material 3 design
-- **Tech:** Kotlin, Jetpack Compose, Firebase
-
-### ✈️ [Flight Eye](https://github.com/ayushsingh-22/FlightEye)
-**Professional Video Streaming Solution**
-- 📺 RTSP video streaming with low latency
-- 🎥 Screen recording with internal audio capture
-- 📱 Optimized for mobile performance
-- **Tech:** Kotlin, Jetpack, libVLC
-
-### 🛡️ [Rakshak Service](https://github.com/ayushsingh-22/Rakshak-Service)
-**Enterprise Security Management**
-- 📊 Real-time dashboard and analytics
-- 📅 Automated booking and scheduling system
-- 📈 Performance monitoring and reporting
-- **Tech:** React.js, Go, REST API, Recharts
-
-### 🏥 [VCE Abnormality Classification](https://www.kaggle.com/code/ayush22singh/vision-transformer)
-**Medical Imaging AI Model**
-- 🧠 Hybrid Vision Transformer + VGG16 architecture
-- 📊 80%+ accuracy in pathology detection
-- 🔬 Computer vision for healthcare diagnostics
-- **Tech:** Python, TensorFlow, Vision Transformers
-
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">
